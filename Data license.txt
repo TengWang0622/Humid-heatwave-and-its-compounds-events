@@ -1,0 +1,70 @@
+{\rtf1\ansi\ansicpg936\cocoartf2708
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\froman\fcharset0 Times-Roman;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww22080\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\qj\partightenfactor0
+
+\f0\fs28 \cf2 \expnd0\expndtw0\kerning0
+# Data License Agreement\
+\'a0\
+## 1. Preamble\
+\'a0\
+This Data License Agreement ("Agreement") is made by and between the Data Provider, Chinese-Multiple-County Hospital (CMC) Network, Prof. Zhenyu Zhang, and the Data Recipient. By accessing or using the data provided, the Data Recipient agrees to comply with the terms and conditions of this Agreement.\
+\'a0\
+## 2. Ownership\
+\'a0\
+The data provided ("Data") is owned by Peking University, CMC Hospital Network, and Prof. Zhenyu Zhang. All rights, title, and interest in and to the Data are retained by Peking University, CMC Hospital Network, and Prof. Zhenyu Zhang.\
+\'a0\
+## 3. License Grant\
+\'a0\
+Subject to the terms and conditions of this Agreement, the Data Provider grants the Data Recipient a non-exclusive, non-transferable, limited license to access and use the Data solely for the purpose of peer review within the context of the Code Ocean platform.\
+\'a0\
+## 4. Restrictions\
+\'a0\
+The Data Recipient agrees to the following restrictions:\
+\'a0\
+- The Data shall not be copied, shared, distributed, sold, licensed, or otherwise transferred to any third party without the prior written consent of Peking University, CMC Hospital Network, and Prof. Zhenyu Zhang.\
+- The Data shall not be used for any commercial purposes.\
+- The Data shall not be used to create derivative works without the prior written consent of Peking University, CMC Hospital Network, and Prof. Zhenyu Zhang.\
+- The Data shall be used only for the purpose of peer review and shall not be published or publicly disclosed in any form.\
+\'a0\
+## 5. Attribution\
+\'a0\
+Any use of the Data must include proper attribution to Peking University, CMC Hospital Network, and Prof. Zhenyu Zhang as the source of the Data.\
+\'a0\
+## 6. No Warranty\
+\'a0\
+The Data is provided "as is" without any warranties of any kind, either express or implied, including but not limited to warranties of accuracy, completeness, or fitness for a particular purpose.\
+\'a0\
+## 7. Limitation of Liability\
+\'a0\
+In no event shall Peking University, CMC Hospital Network, or Prof. Zhenyu Zhang be liable for any damages arising out of or in connection with the use or inability to use the Data, including but not limited to direct, indirect, incidental, consequential, or punitive damages.\
+\'a0\
+## 8. Termination\
+\'a0\
+This Agreement will terminate automatically if the Data Recipient breaches any of its terms. Upon termination, the Data Recipient must immediately cease all use of the Data and destroy all copies of the Data in their possession or control.\
+\'a0\
+## 9. Governing Law\
+\'a0\
+This Agreement shall be governed by and construed in accordance with the laws of [Your Country/State], without regard to its conflict of laws principles.\
+\'a0\
+## 10. Entire Agreement\
+\'a0\
+This Agreement constitutes the entire agreement between the parties with respect to the Data and supersedes all prior or contemporaneous understandings, agreements, negotiations, representations, and warranties, both written and oral, with respect to the Data.\
+\'a0\
+By accessing or using the Data, the Data Recipient acknowledges that they have read, understood, and agreed to be bound by the terms and conditions of this Agreement.\
+\'a0\
+**Data Provider:**\
+\'a0\
+Prof. Zhenyu Zhang\'a0 \
+Peking University\
+June 11, 2024\
+\'a0\
+**Data Owners:**\
+\'a0\
+Chinese-Multiple-County Hospital Network\
+June 11, 2024\
+\'a0\
+}
